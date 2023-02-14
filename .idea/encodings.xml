@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/Domashka/words.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Domashka_7/functions.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Domashka_7/functions_copi.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Domashka_7/main.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Domashka_7/programma.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Domashka_7/utils.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lesson_cod_6_2/answers.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lesson_cod_6_2/answers.txt" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/lesson_cod_6_2/guests.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lesson_cod_6_2/guests.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lesson_cod_6_2/more_data.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lesson_cod_6_2/more_data.txt" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/lesson_cod_6_2/user_data.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lesson_cod_7_1/cards.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lesson_cod_7_1/fish.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lesson_cod_7_1/fish_ponds.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lesson_cod_7_1/gripp.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lesson_cod_7_1/information fish.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lesson_cod_7_1/mnojestva.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lesson_cod_7_1/our_format.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lesson_cod_7_1/search.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lesson_cod_7_2/Calculating_the_average.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lesson_cod_7_2/Filtering.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lesson_cod_7_2/Nested_key.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lesson_cod_8_1/Альбом.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lesson_cod_8_1/Бутылки 2.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lesson_cod_8_1/Бутылки.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lesson_cod_8_1/Долгая дорога героя.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lesson_cod_8_1/Игрок и его баллы.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lesson_cod_8_1/Инвентарь героя.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lesson_cod_8_1/Инициализация героя.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lesson_cod_8_1/Квадрат.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lesson_cod_8_1/Классы.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lesson_cod_8_1/Кредо героя 1.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lesson_cod_8_1/Кредо героя 2.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lesson_cod_8_1/Круг.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lesson_cod_8_1/Номера.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lesson_cod_8_1/Основы абстракций и объектов.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lesson_cod_8_1/Патруль героя.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lesson_cod_8_1/Призвание героев.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lesson_cod_8_1/Студенты.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lesson_cod_8_1/писок дел.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lesson_cod_8_2/Злые наследники.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lesson_cod_8_2/Общие корни.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lesson_cod_8_2/Представительный класс.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lesson_cod_8_2/Улучшение читаемости.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lesson_cod_8_2/Финальная задача про ящики.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/main.py/data_manager/__init__.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/main.py/data_manager/manager.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/main.py/data_statistics/statistics.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/main.py/main.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Домашка_8/main.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Домашка_8/question.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/курсовая_работа_2/storage_for_json.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/курсовая_работа_2/utils.py" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
