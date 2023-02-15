@@ -1,7 +1,8 @@
-a = 3
-b = 4
-print(a+b)
-print(b - a)
-print(a)
-print(b)
-print(a, b)
+def addition(a, b):
+    c = a + b
+    return c
+
+
+def subtraction(a, b):
+    y = a - b
+    return y
